@@ -1,5 +1,9 @@
- {
-     "name": "denda-online",
-     "version": "0.1.0",
-     "description": "Descripción breve del plugin"
-   }
+{
+  "name": "denda-online",
+  "version": "0.1.0",
+  "description": "Plugin para gestionar una tienda online: productos, pedidos y descripciones de catálogo.",
+  "author": {
+    "name": "pipolopez"
+  },
+  "license": "MIT"
+}
